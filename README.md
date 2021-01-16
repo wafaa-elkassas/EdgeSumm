@@ -8,7 +8,7 @@ Year: 2020
 Volume: 57
 Issue: 6
 URL: https://www.sciencedirect.com/science/article/abs/pii/S0306457320301047
-Keywords: Automatic text summarizationExtractive text summarizationGraph representation modelSingle-document summarizationEdgeSumm
+Keywords: Automatic text summarization; Extractive text summarization; Graph representation model; Single-document summarization; EdgeSumm
 
 For citation:
 El-Kassas et al., 2020
